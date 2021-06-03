@@ -1,0 +1,18 @@
+{
+  "name": "createclock",
+  "version": "1.0.1",
+  "description": "A Package That Helps You To Create CLock At Any Position And With Different Colors Of Border And Text.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "createclock",
+    "javascript",
+    "import",
+    "export"
+  ],
+  "author": "Aryan Garg",
+  "license": "ISC"
+}
